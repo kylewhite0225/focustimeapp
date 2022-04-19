@@ -34,13 +34,13 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     padding: spacing.lg,
-    justifyContent: 'top',
+    // justifyContent: 'top',
     flexDirection: 'row',
   },
   textInput: {
     flex: 1,
     marginRight: spacing.sm,
-    borderRadius: 2.5,
+    borderRadius: 5,
   },
   button: {
     justifyContent: 'center',
